@@ -201,7 +201,7 @@ span {
     resize: none;
 }
 
-@media (max-width: 530px) {
+@media (max-width: 450px) {
     .header {
         padding: 35px 12%;
     }
